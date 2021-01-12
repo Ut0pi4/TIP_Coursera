@@ -11,4 +11,5 @@ The course is split in weeks, described as follows:
 
 ## Certificate
 This is my certificate of the course.
+
 ![certificate](/Misc/tip_cert.png)
